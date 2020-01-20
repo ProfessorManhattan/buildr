@@ -1,0 +1,12 @@
+{
+    "exclude": ["**/*.spec.ts"],
+    "externalPattern": "",
+    "gaSite": "tracking_code",
+    "hideGenerator": true,
+    "inputFiles": ["./src/index.ts"],
+    "mode": "file",
+    "module": "esnext",
+    "name": "@tainted/builder",
+    "out": "build/docs",
+    "tsconfig": "./tsconfig.json"
+}
