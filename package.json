@@ -102,12 +102,6 @@
       "path": "cz-conventional-changelog"
     }
   },
-  "importSort": {
-    ".ts": {
-      "style": "eslint",
-      "parser": "typescript"
-    }
-  },
   "prettier": {
     "bracketSpacing": true,
     "printWidth": 120,
