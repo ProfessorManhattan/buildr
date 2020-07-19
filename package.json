@@ -65,7 +65,7 @@
   "dependencies": {
     "@google-cloud/translate": "^5.1.4",
     "dotenv": "^8.2.0",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "sha.js": "^2.4.11"
   },
   "devDependencies": {
